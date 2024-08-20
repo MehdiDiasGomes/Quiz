@@ -2,7 +2,7 @@
   <div class="flex justify-center mt-10 h-full">
     <div class="w-1/3 bg-[#2a2e38] p-10">
       <div class="items-start flex flex-col gap-3">
-        <h2 class="text-3xl">{{ quiz.title }}</h2>
+        <h2 class="text-[1.2rem]">{{ quiz.title }}</h2>
         <Progress :value="step" :max="quiz.questions.length - 1" />
         <Question
           :key="question.question"
