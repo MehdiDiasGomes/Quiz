@@ -4,9 +4,10 @@ import './index.css'
 
 import { createMemoryHistory, createRouter } from 'vue-router'
 import { routes } from './routes'
+import { createWebHistory } from 'vue-router'
 
 const router = createRouter({
-  history: createMemoryHistory(),
+  history: createWebHistory(),
   routes
 })
 
