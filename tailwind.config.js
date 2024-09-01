@@ -3,7 +3,11 @@ export default {
   purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   content: [],
   theme: {
-    extend: {}
+    extend: {
+      backgroundImage: {
+        'snk_wallpaper': "url('./assets/snk_wallpaper.jpg)",
+      }
+    }
   },
   plugins: []
 }

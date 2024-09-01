@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import Fecth_bleach from '@/Fecth_bleach.vue'
+import Fecth_bleach from '@/Fetch.vue'
 
 const props = defineProps({
   quiz: Object
