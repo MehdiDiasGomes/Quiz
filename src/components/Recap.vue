@@ -1,5 +1,6 @@
 <template>
   <div>Score : {{ score }}/{{ quiz.questions.length }}</div>
+  <div>{{ correctAnswers }}</div>
 </template>
 
 <script setup>
@@ -19,4 +20,5 @@ const score = computed(() => {
     return acc
   }, 0)
 })
+
 </script>

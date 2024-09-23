@@ -15,7 +15,7 @@
         </label>
       </li>
     </ul>
-    <button :disabled="!hasAnswer" @click="emit('answer', answer)" class="p-3 bottom-0 right-0">
+    <button :disabled="!hasAnswer" @click="emit('answer', answer), correctAnswer(answer)" class="p-3 bottom-0 right-0">
       Question suivante
     </button>
   </div>
@@ -32,4 +32,13 @@ const answer = ref(null)
 const emit = defineEmits(['answer'])
 
 const hasAnswer = computed(() => answer.value !== null)
+
+const correctAnswer = (choice) => {
+  if (choice === props.question.correctAnswer) {
+    alert('Bravo! La réponse est correcte.')
+  } else {
+    alert(`Désolé, la réponse est incorrecte. La bonne réponse était ${props.question.answer}.`)
+  }
+}
+
 </script>
