@@ -34,7 +34,7 @@ const emit = defineEmits(['answer'])
 const hasAnswer = computed(() => answer.value !== null)
 
 const correctAnswer = (choice) => {
-  if (choice === props.question.correctAnswer) {
+  if (choice === props.question.answer) {
     alert('Bravo! La réponse est correcte.')
   } else {
     alert(`Désolé, la réponse est incorrecte. La bonne réponse était ${props.question.answer}.`)
