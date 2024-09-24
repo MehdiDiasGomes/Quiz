@@ -1,0 +1,55 @@
+{
+  "title": "Quiz Tokyo Ghoul",
+  "questions": [
+    {
+      "question": "Quel est le nom du protagoniste principal de Tokyo Ghoul ?",
+      "options": ["Ken Kaneki", "Touka Kirishima", "Hideyoshi Nagachika", "Koutarou Amon"],
+      "answer": "Ken Kaneki"
+    },
+    {
+      "question": "Quel est le nom de l'organisation qui combat les goules ?",
+      "options": ["Le CCG", "Aogiri Tree", "Anteiku", "V"],
+      "answer": "Le CCG"
+    },
+    {
+      "question": "Quelle est la couleur des cheveux de Ken Kaneki après sa transformation en goule ?",
+      "options": ["Blanc", "Noir", "Rouge", "Gris"],
+      "answer": "Blanc"
+    },
+    {
+      "question": "Quel est le surnom de la goule Rize Kamishiro ?",
+      "options": ["La Goule Gloutonne", "Le Lapin Blanc", "La Fauve", "Le Moineau"],
+      "answer": "La Goule Gloutonne"
+    },
+    {
+      "question": "Quel personnage est le patron du café Anteiku ?",
+      "options": ["Yoshimura", "Nishiki Nishio", "Renji Yomo", "Koma Enji"],
+      "answer": "Yoshimura"
+    },
+    {
+      "question": "Quelle est l'arme spéciale utilisée par les inspecteurs de goules ?",
+      "options": ["Quinque", "Kagune", "Kakuja", "Bikaku"],
+      "answer": "Quinque"
+    },
+    {
+      "question": "Qui est la partenaire initiale de Koutarou Amon ?",
+      "options": ["Kureo Mado", "Akira Mado", "Juuzou Suzuya", "Seidou Takizawa"],
+      "answer": "Kureo Mado"
+    },
+    {
+      "question": "Quel est le nom de code de la goule connue sous le nom de \"Lapin\" ?",
+      "options": ["Touka Kirishima", "Ayato Kirishima", "Hinami Fueguchi", "Ken Kaneki"],
+      "answer": "Touka Kirishima"
+    },
+    {
+      "question": "Quels sont les types de kagune les plus souvent mentionnés ?",
+      "options": ["Ukaku, Koukaku, Rinkaku, Bikaku", "Ukaku, Bikaku, Kakuhou, Kakuja", "Koukaku, Rinkaku, Kakuja, Quinque", "Bikaku, Rinkaku, Koukaku, Kuro"],
+      "answer": "Ukaku, Koukaku, Rinkaku, Bikaku"
+    },
+    {
+      "question": "Quel est le nom de la goule connue pour ses caractéristiques d'assimilation de multiples kagune ?",
+      "options": ["Kakuja", "Kagune", "Quinque", "Ukaku"],
+      "answer": "Kakuja"
+    }
+  ]
+}
