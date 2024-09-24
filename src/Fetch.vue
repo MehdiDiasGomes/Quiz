@@ -9,14 +9,22 @@
 </template>
 
 <script setup>
-import { onMounted, ref } from 'vue'
-import { useRoute } from 'vue-router'
+import { onMounted, ref, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 import Quiz from './components/Quiz.vue';
 
 const quiz = ref(null)
 const state = ref('loading')
 const route = useRoute()
+const router = useRouter()
 const anime = route.params.anime
+
+watch(state, (newState) => {
+  if (newState === 'error') {
+    console.error('Error while loading the quiz')
+    router.push('/not-found')
+  }
+})
 
 onMounted(() => {
   fetch(`/quiz_${anime}.json`)
