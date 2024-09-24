@@ -15,7 +15,7 @@
         </label>
       </li>
     </ul>
-    <button :disabled="!hasAnswer" @click="emit('answer', answer), correctAnswer(answer)" class="p-3 bottom-0 right-0">
+    <button :disabled="!hasAnswer" @click="emit('answer', answer)" class="p-3 bottom-0 right-0">
       Question suivante
     </button>
   </div>
