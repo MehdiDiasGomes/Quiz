@@ -1,4 +1,5 @@
 import Home from './Pages/Home.vue'
+import NotFound from './Pages/NotFound.vue'
 
 export const routes = [
   { path: '/', component: Home },
@@ -7,5 +8,9 @@ export const routes = [
     name: 'Quiz',
     component: () => import('@/Fetch.vue'),
     props: true
+  },
+  {
+    path: '/:path(.*)',
+    component: NotFound
   }
 ]
