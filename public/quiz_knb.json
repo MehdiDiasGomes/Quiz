@@ -1,0 +1,55 @@
+{
+  "title": "Quiz Kuroko's Basket",
+  "questions": [
+    {
+      "question": "Quel est le rôle de Tetsuya Kuroko dans l'équipe de basket de Seirin ?",
+      "options": ["Le sixième homme", "Le capitaine", "L'attaquant", "Le meneur"],
+      "answer": "Le sixième homme"
+    },
+    {
+      "question": "Comment se nomme l'équipe légendaire dont Kuroko faisait partie au collège ?",
+      "options": ["La Génération des Miracles", "Teikou Five", "Les Géants du basket", "Les invincibles"],
+      "answer": "La Génération des Miracles"
+    },
+    {
+      "question": "Qui est le capitaine de l'équipe de basket de Seirin ?",
+      "options": ["Junpei Hyuga", "Kagami Taiga", "Izuki Shun", "Kiyoshi Teppei"],
+      "answer": "Junpei Hyuga"
+    },
+    {
+      "question": "Quelle est la spécialité de Taiga Kagami, le partenaire de Kuroko ?",
+      "options": ["Le saut", "Le tir à trois points", "La passe", "La défense"],
+      "answer": "Le saut"
+    },
+    {
+      "question": "Quel joueur de la Génération des Miracles est connu pour sa capacité à tirer depuis n'importe où sur le terrain ?",
+      "options": ["Ryōta Kise", "Shintarō Midorima", "Daiki Aomine", "Atsushi Murasakibara"],
+      "answer": "Shintarō Midorima"
+    },
+    {
+      "question": "Quelle est la particularité du style de jeu de Kuroko ?",
+      "options": ["Il est invisible sur le terrain", "Il est très rapide", "Il peut marquer des paniers de loin", "Il est un excellent défenseur"],
+      "answer": "Il est invisible sur le terrain"
+    },
+    {
+      "question": "Qui est considéré comme le joueur le plus talentueux de la Génération des Miracles ?",
+      "options": ["Daiki Aomine", "Ryōta Kise", "Seijūrō Akashi", "Shintarō Midorima"],
+      "answer": "Seijūrō Akashi"
+    },
+    {
+      "question": "Quel membre de la Génération des Miracles possède une capacité d'imiter les mouvements de n'importe quel joueur ?",
+      "options": ["Ryōta Kise", "Daiki Aomine", "Shintarō Midorima", "Atsushi Murasakibara"],
+      "answer": "Ryōta Kise"
+    },
+    {
+      "question": "Quelle est la devise de Kuroko sur le basket-ball ?",
+      "options": ["Le basket est un sport d'équipe", "Le talent est tout", "La force physique est primordiale", "La victoire est ce qui compte"],
+      "answer": "Le basket est un sport d'équipe"
+    },
+    {
+      "question": "Quel est le nom du coach de l'équipe de Seirin ?",
+      "options": ["Riko Aida", "Kagetora Aida", "Teppei Kiyoshi", "Tatsuya Himuro"],
+      "answer": "Riko Aida"
+    }
+  ]
+}

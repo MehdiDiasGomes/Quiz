@@ -28,6 +28,15 @@
       />
       <h3 class="absolute text-2xl bottom-5 left-5 text-white font-bold">Naruto</h3>
     </RouterLink>
+
+    <RouterLink to="/quiz/knb" class="w-[20rem] h-[20rem] p-3 gap-5 relative group">
+      <img
+        class="w-full h-full object-cover rounded-lg opacity-35 group-hover:opacity-70 group-hover:scale-105 duration-300"
+        src="../assets/knb_wallpaper.jpg"
+        alt="Kuruko's basket"
+      />
+      <h3 class="absolute text-2xl bottom-5 left-5 text-white font-bold">Kuruko's basket</h3>
+    </RouterLink>
   </div>
   </div>
   
