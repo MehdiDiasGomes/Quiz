@@ -3,52 +3,52 @@
   "questions": [
     {
       "question": "Quel est le nom du protagoniste principal de Blue Lock ?",
-      "options": ["Yoichi Isagi", "Meguru Bachira", "Rin Itoshi", "Seishiro Nagi"],
+      "options": ["Rin Itoshi", "Yoichi Isagi", "Seishiro Nagi", "Meguru Bachira"],
       "answer": "Yoichi Isagi"
     },
     {
       "question": "Quel est le principal objectif du projet Blue Lock ?",
-      "options": ["Créer le meilleur défenseur", "Former le gardien de but ultime", "Former le meilleur attaquant", "Développer des milieux de terrain polyvalents"],
+      "options": ["Former le meilleur attaquant", "Former le gardien de but ultime", "Créer le meilleur défenseur", "Développer des milieux de terrain polyvalents"],
       "answer": "Former le meilleur attaquant"
     },
     {
       "question": "Qui est le directeur du projet Blue Lock ?",
-      "options": ["Ego Jinpachi", "Kira Ryu", "Anri Teieri", "Kageno Jin"],
+      "options": ["Anri Teieri", "Kageno Jin", "Kira Ryu", "Ego Jinpachi"],
       "answer": "Ego Jinpachi"
     },
     {
       "question": "Quel est le numéro de Yoichi Isagi dans le Blue Lock ?",
-      "options": ["11", "18", "9", "7"],
+      "options": ["18", "11", "9", "7"],
       "answer": "11"
     },
     {
       "question": "Quel est le trait distinctif de Meguru Bachira sur le terrain ?",
-      "options": ["Sa vitesse", "Son dribble", "Sa force", "Son tir"],
+      "options": ["Son tir", "Son dribble", "Sa force", "Sa vitesse"],
       "answer": "Son dribble"
     },
     {
       "question": "Qui est le premier à être éliminé dans le Blue Lock parmi les suivants ?",
-      "options": ["Junichi Wanima", "Gurimu Igarashi", "Ryusei Shidou", "Shoei Baro"],
+      "options": ["Gurimu Igarashi", "Ryusei Shidou", "Shoei Baro", "Junichi Wanima"],
       "answer": "Gurimu Igarashi"
     },
     {
       "question": "Dans quelle équipe Yoichi Isagi est-il placé lors de la première sélection ?",
-      "options": ["Équipe Z", "Équipe Y", "Équipe X", "Équipe W"],
+      "options": ["Équipe Y", "Équipe Z", "Équipe W", "Équipe X"],
       "answer": "Équipe Z"
     },
     {
       "question": "Quel joueur est connu pour son incroyable contrôle de balle dans l'air ?",
-      "options": ["Seishiro Nagi", "Gin Gagamaru", "Hyoma Chigiri", "Rensuke Kunigami"],
+      "options": ["Gin Gagamaru", "Seishiro Nagi", "Rensuke Kunigami", "Hyoma Chigiri"],
       "answer": "Seishiro Nagi"
     },
     {
       "question": "Quel est le principal talent de Hyoma Chigiri ?",
-      "options": ["Endurance", "Force", "Vitesse", "Technique"],
+      "options": ["Technique", "Vitesse", "Force", "Endurance"],
       "answer": "Vitesse"
     },
     {
       "question": "Quel joueur est surnommé le \"Roi\" dans Blue Lock ?",
-      "options": ["Shoei Baro", "Rin Itoshi", "Yoichi Isagi", "Meguru Bachira"],
+      "options": ["Yoichi Isagi", "Meguru Bachira", "Shoei Baro", "Rin Itoshi"],
       "answer": "Shoei Baro"
     }
   ]

@@ -3,67 +3,52 @@
   "questions": [
     {
       "question": "Quel est le nom du protagoniste principal de Bleach ?",
-      "options": ["Ichigo Kurosaki", "Rukia Kuchiki", "Renji Abarai", "Uryū Ishida"],
+      "options": ["Rukia Kuchiki", "Ichigo Kurosaki", "Renji Abarai", "Uryū Ishida"],
       "answer": "Ichigo Kurosaki"
     },
     {
       "question": "Quelle est l'épée d'Ichigo appelée ?",
-      "options": ["Zangetsu", "Benihime", "Zabimaru", "Hyorinmaru"],
+      "options": ["Benihime", "Zabimaru", "Hyorinmaru", "Zangetsu"],
       "answer": "Zangetsu"
     },
     {
       "question": "Quel est le rang de Rukia Kuchiki au début de la série ?",
-      "options": ["Lieutenant", "Capitaine", "Membre de la 13e division", "Humain"],
+      "options": ["Capitaine", "Membre de la 13e division", "Lieutenant", "Humain"],
       "answer": "Membre de la 13e division"
     },
     {
       "question": "Quelle est la principale organisation qui régit les Shinigami ?",
-      "options": [
-        "La Soul Society",
-        "Le Hueco Mundo",
-        "Le Gotei 13",
-        "Les Arrancars"
-      ],
+      "options": ["Le Hueco Mundo", "Les Arrancars", "Le Gotei 13", "La Soul Society"],
       "answer": "Le Gotei 13"
     },
     {
       "question": "Qui est le capitaine de la 6e division et le frère adoptif de Rukia ?",
-      "options": ["Byakuya Kuchiki", "Sōsuke Aizen", "Kenpachi Zaraki", "Shunsui Kyōraku"],
+      "options": ["Sōsuke Aizen", "Byakuya Kuchiki", "Kenpachi Zaraki", "Shunsui Kyōraku"],
       "answer": "Byakuya Kuchiki"
     },
     {
       "question": "Quel est l'objectif principal des Arrancars dans l'arc Hueco Mundo ?",
-      "options": [
-        "Dévorer des âmes",
-        "Infiltrer la Soul Society",
-        "Capturer Orihime Inoue",
-        "Détruire le monde humain"
-      ],
+      "options": ["Infiltrer la Soul Society", "Capturer Orihime Inoue", "Dévorer des âmes", "Détruire le monde humain"],
       "answer": "Capturer Orihime Inoue"
     },
     {
       "question": "Quel est le pouvoir spécial d'Orihime Inoue ?",
-      "options": [
-        "Manipuler le temps et l'espace",
-        "Contrôler le feu",
-        "Invoquer des créatures spirituelles",
-        "Contrôler l'eau"
-      ],
+      "options": ["Manipuler le temps et l'espace", "Invoquer des créatures spirituelles", "Contrôler le feu", "Contrôler l'eau"],
       "answer": "Manipuler le temps et l'espace"
     },
     {
       "question": "Qui est le capitaine rebelle qui trahit la Soul Society ?",
-      "options": ["Sōsuke Aizen", "Genryūsai Yamamoto", "Mayuri Kurotsuchi", "Tōshirō Hitsugaya"],
+      "options": ["Tōshirō Hitsugaya", "Sōsuke Aizen", "Mayuri Kurotsuchi", "Genryūsai Yamamoto"],
       "answer": "Sōsuke Aizen"
     },
     {
       "question": "Quelle est la forme évoluée des Hollows appelés Arrancars ?",
-      "options": ["Vasto Lorde", "Adjuchas", "Menos Grande", "Espada"],
+      "options": ["Adjuchas", "Vasto Lorde", "Espada", "Menos Grande"],
       "answer": "Espada"
     },
     {
       "question": "Quel est le nom du groupe de Shinigami envoyés dans le monde des humains pour protéger les âmes ?",
-      "options": ["Les Vizards", "Les Quincys", "Les Arrancars", "Le Gotei 13"],
+      "options": ["Les Quincys", "Les Arrancars", "Les Vizards", "Le Gotei 13"],
       "answer": "Le Gotei 13"
     }
   ]

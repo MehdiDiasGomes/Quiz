@@ -3,52 +3,52 @@
   "questions": [
     {
       "question": "Quel est le rêve de Naruto Uzumaki ?",
-      "options": ["Devenir Hokage", "Devenir un Sannin légendaire", "Trouver Sasuke", "Développer de nouvelles techniques"],
+      "options": ["Développer de nouvelles techniques", "Devenir Hokage", "Trouver Sasuke", "Devenir un Sannin légendaire"],
       "answer": "Devenir Hokage"
     },
     {
       "question": "Quel est le nom de la bête à neuf queues scellée en Naruto ?",
-      "options": ["Kurama", "Shukaku", "Gyūki", "Son Gokū"],
+      "options": ["Son Gokū", "Kurama", "Shukaku", "Gyūki"],
       "answer": "Kurama"
     },
     {
       "question": "Qui est le rival et ami de Naruto tout au long de la série ?",
-      "options": ["Sasuke Uchiha", "Neji Hyūga", "Shikamaru Nara", "Kakashi Hatake"],
+      "options": ["Shikamaru Nara", "Neji Hyūga", "Sasuke Uchiha", "Kakashi Hatake"],
       "answer": "Sasuke Uchiha"
     },
     {
       "question": "Quel est le nom du professeur de Naruto dans l'équipe 7 ?",
-      "options": ["Kakashi Hatake", "Jiraiya", "Iruka Umino", "Minato Namikaze"],
+      "options": ["Jiraiya", "Minato Namikaze", "Kakashi Hatake", "Iruka Umino"],
       "answer": "Kakashi Hatake"
     },
     {
       "question": "Quel est le clan dont Sasuke fait partie ?",
-      "options": ["Uchiha", "Hyūga", "Senju", "Akimichi"],
+      "options": ["Hyūga", "Akimichi", "Senju", "Uchiha"],
       "answer": "Uchiha"
     },
     {
       "question": "Quel est le nom de la technique signature de Naruto ?",
-      "options": ["Rasengan", "Chidori", "Amaterasu", "Sharingan"],
+      "options": ["Chidori", "Amaterasu", "Rasengan", "Sharingan"],
       "answer": "Rasengan"
     },
     {
       "question": "Qui est l'Hokage au début de la série Naruto ?",
-      "options": ["Hiruzen Sarutobi", "Minato Namikaze", "Tsunade", "Danzo Shimura"],
+      "options": ["Danzo Shimura", "Hiruzen Sarutobi", "Minato Namikaze", "Tsunade"],
       "answer": "Hiruzen Sarutobi"
     },
     {
       "question": "Quel est le pouvoir spécial du clan Hyūga, dont fait partie Hinata ?",
-      "options": ["Byakugan", "Sharingan", "Rinnegan", "Mangekyō Sharingan"],
+      "options": ["Rinnegan", "Mangekyō Sharingan", "Sharingan", "Byakugan"],
       "answer": "Byakugan"
     },
     {
       "question": "Quel est le nom de l'organisation criminelle qui cherche à capturer les Bijū ?",
-      "options": ["Akatsuki", "Anbu", "Orochimaru's forces", "Les Sept Épéistes de Kiri"],
+      "options": ["Les Sept Épéistes de Kiri", "Akatsuki", "Orochimaru's forces", "Anbu"],
       "answer": "Akatsuki"
     },
     {
       "question": "Qui est le légendaire ninja surnommé le \"Sannin des Crapauds\" et mentor de Naruto ?",
-      "options": ["Jiraiya", "Tsunade", "Orochimaru", "Kakashi Hatake"],
+      "options": ["Kakashi Hatake", "Tsunade", "Jiraiya", "Orochimaru"],
       "answer": "Jiraiya"
     }
   ]

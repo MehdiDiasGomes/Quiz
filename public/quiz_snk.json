@@ -3,37 +3,37 @@
   "questions": [
     {
       "question": "Quel est le nom du protagoniste principal de Shingeki no Kyojin ?",
-      "options": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman"],
+      "options": ["Mikasa Ackerman", "Levi Ackerman", "Eren Yeager", "Armin Arlert"],
       "answer": "Eren Yeager"
     },
     {
       "question": "Quelle est la taille approximative du Titan Colossal ?",
-      "options": ["50 mètres", "60 mètres", "70 mètres", "80 mètres"],
+      "options": ["80 mètres", "60 mètres", "50 mètres", "70 mètres"],
       "answer": "60 mètres"
     },
     {
       "question": "Quel est le nom de l'unité militaire d'élite qui combat les Titans à l'extérieur des murs ?",
       "options": [
-        "La Brigade d'entraînement",
-        "La Garnison",
         "La Brigade Spéciale",
-        "Le Bataillon d'exploration"
+        "Le Bataillon d'exploration",
+        "La Garnison",
+        "La Brigade d'entraînement"
       ],
       "answer": "Le Bataillon d'exploration"
     },
     {
       "question": "Quel est le pouvoir du Titan de la Fondatrice ?",
       "options": [
+        "Voler",
         "Contrôle des autres Titans",
         "Transformation en Titan Colossal",
-        "Voler",
         "Régénération rapide"
       ],
       "answer": "Contrôle des autres Titans"
     },
     {
       "question": "Qui est le détenteur du Titan Bestial dans l'histoire ?",
-      "options": ["Zeke Yeager", "Eren Yeager", "Reiner Braun", "Annie Leonhart"],
+      "options": ["Reiner Braun", "Zeke Yeager", "Annie Leonhart", "Eren Yeager"],
       "answer": "Zeke Yeager"
     },
     {
@@ -41,29 +41,29 @@
       "options": [
         "District de Shiganshina",
         "District de Trost",
-        "District de Stohess",
-        "District de Karanese"
+        "District de Karanese",
+        "District de Stohess"
       ],
       "answer": "District de Shiganshina"
     },
     {
       "question": "Quel est l'objectif principal d'Eren Yeager dans la série ?",
       "options": [
-        "Venger la mort de sa famille",
         "Découvrir la vérité sur les Titans",
+        "Exterminer tous les Titans",
         "Défendre les murs",
-        "Exterminer tous les Titans"
+        "Venger la mort de sa famille"
       ],
       "answer": "Exterminer tous les Titans"
     },
     {
       "question": "Qui est le capitaine du Bataillon d'exploration lors des premières saisons ?",
-      "options": ["Erwin Smith", "Levi Ackerman", "Hange Zoë", "Dot Pixis"],
+      "options": ["Dot Pixis", "Levi Ackerman", "Erwin Smith", "Hange Zoë"],
       "answer": "Erwin Smith"
     },
     {
       "question": "Quel personnage féminin est connu pour être capable de se transformer en Titan Femelle ?",
-      "options": ["Mikasa Ackerman", "Historia Reiss", "Annie Leonhart", "Ymir"],
+      "options": ["Mikasa Ackerman", "Annie Leonhart", "Ymir", "Historia Reiss"],
       "answer": "Annie Leonhart"
     },
     {
