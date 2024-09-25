@@ -38,6 +38,14 @@
       <h3 class="absolute text-2xl bottom-5 left-5 text-white font-bold">Kuruko's basket</h3>
     </RouterLink>
     
+    <RouterLink to="/quiz/tokyo-ghoul" class="w-[20rem] h-[20rem] p-3 gap-5 relative group">
+      <img
+        class="w-full h-full object-cover rounded-lg opacity-35 group-hover:opacity-70 group-hover:scale-105 duration-300"
+        src="../assets/tokyo-ghoul_wallpaper.jpg"
+        alt="Tokyo Ghoul"
+      />
+      <h3 class="absolute text-2xl bottom-5 left-5 text-white font-bold">Tokyo Ghoul</h3>
+    </RouterLink>
     <RouterLink to="/quiz/blue-lock" class="w-[20rem] h-[20rem] p-3 gap-5 relative group">
       <img
          class="w-full h-full object-cover rounded-lg opacity-35 group-hover:opacity-70 group-hover:scale-105 duration-300"
