@@ -1,0 +1,55 @@
+{
+  "title": "Quiz Blue Lock",
+  "questions": [
+    {
+      "question": "Quel est le nom du protagoniste principal de Blue Lock ?",
+      "options": ["Yoichi Isagi", "Meguru Bachira", "Rin Itoshi", "Seishiro Nagi"],
+      "answer": "Yoichi Isagi"
+    },
+    {
+      "question": "Quel est le principal objectif du projet Blue Lock ?",
+      "options": ["Créer le meilleur défenseur", "Former le gardien de but ultime", "Former le meilleur attaquant", "Développer des milieux de terrain polyvalents"],
+      "answer": "Former le meilleur attaquant"
+    },
+    {
+      "question": "Qui est le directeur du projet Blue Lock ?",
+      "options": ["Ego Jinpachi", "Kira Ryu", "Anri Teieri", "Kageno Jin"],
+      "answer": "Ego Jinpachi"
+    },
+    {
+      "question": "Quel est le numéro de Yoichi Isagi dans le Blue Lock ?",
+      "options": ["11", "18", "9", "7"],
+      "answer": "11"
+    },
+    {
+      "question": "Quel est le trait distinctif de Meguru Bachira sur le terrain ?",
+      "options": ["Sa vitesse", "Son dribble", "Sa force", "Son tir"],
+      "answer": "Son dribble"
+    },
+    {
+      "question": "Qui est le premier à être éliminé dans le Blue Lock parmi les suivants ?",
+      "options": ["Junichi Wanima", "Gurimu Igarashi", "Ryusei Shidou", "Shoei Baro"],
+      "answer": "Gurimu Igarashi"
+    },
+    {
+      "question": "Dans quelle équipe Yoichi Isagi est-il placé lors de la première sélection ?",
+      "options": ["Équipe Z", "Équipe Y", "Équipe X", "Équipe W"],
+      "answer": "Équipe Z"
+    },
+    {
+      "question": "Quel joueur est connu pour son incroyable contrôle de balle dans l'air ?",
+      "options": ["Seishiro Nagi", "Gin Gagamaru", "Hyoma Chigiri", "Rensuke Kunigami"],
+      "answer": "Seishiro Nagi"
+    },
+    {
+      "question": "Quel est le principal talent de Hyoma Chigiri ?",
+      "options": ["Endurance", "Force", "Vitesse", "Technique"],
+      "answer": "Vitesse"
+    },
+    {
+      "question": "Quel joueur est surnommé le \"Roi\" dans Blue Lock ?",
+      "options": ["Shoei Baro", "Rin Itoshi", "Yoichi Isagi", "Meguru Bachira"],
+      "answer": "Shoei Baro"
+    }
+  ]
+}
