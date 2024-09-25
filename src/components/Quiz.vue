@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center mt-5 h-full">
+  <div class="flex items-center justify-center h-screen">
     <div class="md:w-1/2 w-[90%] bg-[#2a2e38] p-10">
       <div class="items-start flex flex-col gap-3">
         <h2 class="text-[1.2rem]">{{ props.quiz.title }}</h2>
@@ -10,6 +10,7 @@
     </div>
   </div>
 </template>
+
 
 <script setup>
 import Progress from './Progress.vue'
