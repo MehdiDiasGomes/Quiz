@@ -1,5 +1,12 @@
 <template>
-  <div class="flex justify-center">
+  <div class="flex flex-col justify-center items-center mt-10">
+    <nav class="flex flex-col gap-3 items-center md:flex-row">
+      <img class="w-20" src="../assets/logo/logo.png" alt="Logo quiz">
+      <div class="flex flex-col items-center md:items-start">
+        <h1 class="text-2xl">Quiz Anime Challenge</h1>
+        <h2>Teste tes Connaissances en Anime 🥢</h2>
+      </div>
+    </nav>
     <div class="w-full flex flex-wrap justify-center mt-10 gap-8">
       <RouterLink to="/quiz/snk" class="w-[20rem] h-[20rem] p-3 gap-5 relative group">
         <img
