@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center justify-center h-screen">
-    <div class="md:w-1/2 w-[90%] bg-[#2a2e38] p-10">
+    <div class="md:w-1/2 w-[90%] bg-[#2a2e38] rounded p-10">
       <div class="items-start flex flex-col gap-3">
         <h2 class="text-[1.2rem]">{{ props.quiz.title }}</h2>
         <Progress :value="step" :max="props.quiz.questions.length - 1" />
